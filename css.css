@@ -1,0 +1,36 @@
+
+body{
+  margin: 10;
+  background: url(c:\Users\User\Desktop\Hasanzoda\Camera\20230218_124739.jpg);
+ background-size: cover;
+  }
+  fieldset{
+    margin-left: 400px;
+    margin-right: 4000px;
+}
+
+holder{
+    color: rgb(23, 104, 70);
+}
+h5 {
+    color: rgb(7, 7, 7);
+}
+url{
+  color: rgb(252, 6, 6);
+}
+h7 {
+    color: rgba(245, 10, 21, 0.918);
+}
+
+.center {
+    background-color: #1d1d1d;
+}
+.checkbox {
+    background-color: beige;
+}
+h10 {
+color: rgb(211, 133, 38);
+}
+h1 {
+    background-color:rgb(247, 247, 247)
+}
